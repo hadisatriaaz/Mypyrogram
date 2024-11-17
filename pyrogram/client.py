@@ -186,7 +186,7 @@ class Client(Methods):
 
     APP_VERSION = "12.5"
     #APP_VERSION = f"Pyrogram {__version__}"
-    DEVICE_MODEL = "Xiaomi Mi 10 Ultra"
+    DEVICE_MODEL = "Hero-Userbot🔥"
     #DEVICE_MODEL = f"{platform.python_implementation()} {platform.python_version()}"
     SYSTEM_VERSION = "Snapdragon 865 5G"
     #SYSTEM_VERSION = f"{platform.system()} {platform.release()}"
